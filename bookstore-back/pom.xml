@@ -119,7 +119,9 @@
                     <apiSources>
                         <apiSource>
                             <springmvc>false</springmvc>
-                            <locations>rest</locations>
+                            <locations>
+                                <location>rest</location>
+                            </locations>
                             <schemes>http,https</schemes>
                             <host>localhost:8080</host>
                             <basePath>/bookstore-back/api</basePath>

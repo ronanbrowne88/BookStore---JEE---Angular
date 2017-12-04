@@ -40,343 +40,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JaxRSClient/src/main/Model/Book.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JaxRSClient/src/main/Model/Language.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JaxRSClient/src/main/java/RestClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b32.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_5_0_b32.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_5_0_b32.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_5_0_b32.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_5_0_b32.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_25_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_25_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_25_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_2_25_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_2_25_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jaxRSClient/pom.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/beans.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/META-INF/persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/com/pluralsight/bookstore/model/Book.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/com/pluralsight/bookstore/model/Language.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/import.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/repository/BookRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/rest/BookEndPoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/rest/JAXRSConfiguration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/util/IsbnGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/util/NumberGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/util/TextUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/lib/swagger-annotations-1.5.12.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger-ui/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger-ui/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger-ui/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger-ui/oauth2-redirect.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger-ui/swagger-ui-bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger-ui/swagger-ui-bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger-ui/swagger-ui-standalone-preset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger-ui/swagger-ui-standalone-preset.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger-ui/swagger-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger-ui/swagger-ui.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger-ui/swagger-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger-ui/swagger-ui.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookstore-back/swagger.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/model/Book.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/model/Language.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/import.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/repository/BookRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/rest/BookEndPoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/rest/JAXRSConfiguration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/util/IsbnGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/util/NumberGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/util/TextUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pax_global_header" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependencies.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependency-convergence.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependency-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependency-management.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/collapsed.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/expanded.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/external.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/newwindow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/plugin-management.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/.github/issue_template.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/.github/pull_request_template.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/Dockerfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dev-helpers/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dev-helpers/oauth2-redirect.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dist/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dist/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dist/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dist/oauth2-redirect.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dist/swagger-ui-bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dist/swagger-ui-bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dist/swagger-ui-standalone-preset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dist/swagger-ui-standalone-preset.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dist/swagger-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dist/swagger-ui.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dist/swagger-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/dist/swagger-ui.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/docker-run.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/docs/deep-linking.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/docs/images/swagger-ui2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/docs/images/swagger-ui3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/docs/version-detection.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/make-webpack-config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/nginx.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/postcss.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/snapcraft.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/brace-snippets-yaml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/app.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/array-model.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/auth/api-key-auth.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/auth/auth-item.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/auth/authorization-popup.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/auth/authorize-btn.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/auth/authorize-operation-btn.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/auth/auths.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/auth/basic-auth.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/auth/error.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/auth/oauth2.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/clear.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/content-type.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/curl.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/debug.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/enum-model.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/errors.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/execute.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/footer.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/headers.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/highlight-code.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/info.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/layout-utils.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/layouts/base.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/layouts/xpane.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/live-response.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/model-collapse.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/model-example.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/model-wrapper.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/model.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/models.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/object-model.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/online-validator-badge.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/operation.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/operations.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/overview.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/param-body.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/parameter-row.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/parameters.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/primitive-model.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/property.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/providers/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/providers/markdown.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/response-body.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/response.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/responses.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/schemes.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/system-wrapper.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/try-it-out-button.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/components/version-stamp.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/curlify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/json-schema-components.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/oauth2-authorize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/all.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/ast/ast.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/ast/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/ast/jump-to-path.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/auth/actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/auth/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/auth/reducers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/auth/selectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/auth/spec-wrap-actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/deep-linking/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/deep-linking/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/deep-linking/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/deep-linking/layout-wrap-actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/deep-linking/spec-wrap-actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/download-url.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/err/actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/err/error-transformers/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/err/error-transformers/hook.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/err/error-transformers/transformers/not-of-type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/err/error-transformers/transformers/parameter-oneof.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/err/error-transformers/transformers/strip-instance.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/err/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/err/reducers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/err/selectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/layout/actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/layout/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/layout/reducers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/layout/selectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/logs/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/auth-extensions/wrap-selectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/components/callbacks.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/components/http-auth.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/components/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/components/operation-link.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/components/request-body-editor.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/components/request-body.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/components/servers.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/reducers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/selectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/spec-extensions/selectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/spec-extensions/wrap-selectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/wrap-components/auth-item.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/wrap-components/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/wrap-components/markdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/wrap-components/model.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/wrap-components/online-validator-badge.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/wrap-components/parameters.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/oas3/wrap-components/version-stamp.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/samples/fn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/samples/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/spec/actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/spec/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/spec/reducers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/spec/selectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/spec/wrap-actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/split-pane-mode/components/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/split-pane-mode/components/split-pane-mode.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/split-pane-mode/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/swagger-js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/util/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/view/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/plugins/view/root-injects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/presets/apis.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/presets/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/proptypes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/system.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/core/window.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/img/logo_small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/plugins/add-plugin.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/plugins/configs/actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/plugins/configs/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/plugins/configs/reducers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/plugins/configs/selectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/plugins/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/plugins/topbar/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/plugins/topbar/logo_small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/plugins/topbar/topbar.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/polyfills.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/standalone/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/standalone/layout.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_authorize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_colors.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_errors.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_form.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_information.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_layout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_modal.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_models.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_split-pane-mode.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_table.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_topbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_type.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/src/style/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/swagger-config.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/swagger-ui-dist-package/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/swagger-ui-dist-package/.npmrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/swagger-ui-dist-package/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/swagger-ui-dist-package/absolute-path.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/swagger-ui-dist-package/deploy.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/swagger-ui-dist-package/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/swagger-ui-dist-package/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/bugs/3199-sanitization-escaping.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/bugs/3279-empty-markdown-source.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/components/live-response.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/components/markdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/components/model-example.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/components/models.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/components/operation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/components/primitive-model.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/components/response.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/components/schemes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/curlify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/oauth2-authorize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/plugins/auth/selectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/plugins/auth/wrap-spec-actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/plugins/err/transformers/not-of-type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/plugins/err/transformers/parameter-oneof.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/plugins/oas3/wrap-auth-selectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/plugins/samples/fn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/plugins/spec-reducer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/plugins/spec/actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/plugins/spec/selectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/system/system.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/system/wrapComponent.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/core/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/e2e/nightwatch.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/e2e/pages/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/e2e/scenarios/informationContainer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/e2e/scenarios/models.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/e2e/scenarios/operations/pet.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/e2e/scenarios/operations/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/e2e/scenarios/operations/user.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/e2e/scenarios/schemeContainer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/e2e/scenarios/topbar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/e2e/specs/petstore.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/swagger-ui-dist-package/absolute-path.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/xss/info-sanitization.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/test/xss/markdown-script-sanitization.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/webpack-dist-bundle.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/webpack-dist-standalone.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/webpack-dist.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/webpack-hot-dev-server.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/webpack-watch.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/webpack.check.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/webpack.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/swagger-ui-master/webpack.dist-style.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/META-INF/test-persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/arquillian.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/repository/BookRepositoryTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/rest/BookEndPointTest.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../bookstore-front/node_modules/.bin/_ts-node" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../bookstore-front/node_modules/.bin/_ts-node.cmd" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../bookstore-front/node_modules/.bin/build-optimizer" afterPath="" />
@@ -725,18 +388,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../bookstore-front/src/app/service/model/Book.ts" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../bookstore-front/src/app/service/model/models.ts" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bookstore-front/node_modules/node-sass/vendor/win32-x64-57/binding.node" afterPath="$PROJECT_DIR$/../bookstore-front/node_modules/node-sass/vendor/win32-x64-57/binding.node" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/rest/BookEndPoint.java" afterPath="$PROJECT_DIR$/src/main/java/rest/BookEndPoint.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/rest/repository/BookRepository.java" afterPath="$PROJECT_DIR$/src/main/java/rest/repository/BookRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/swagger.json" afterPath="$PROJECT_DIR$/src/main/webapp/swagger.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/swagger.yaml" afterPath="$PROJECT_DIR$/src/main/webapp/swagger.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/repository/BookRepositoryTest.java" afterPath="$PROJECT_DIR$/src/test/java/repository/BookRepositoryTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/rest/BookEndPointTest.java" afterPath="$PROJECT_DIR$/src/test/java/rest/BookEndPointTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bookstore-front/node_modules/.bin/nopt" afterPath="$PROJECT_DIR$/../bookstore-front/node_modules/.bin/nopt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bookstore-front/node_modules/.bin/nopt.cmd" afterPath="$PROJECT_DIR$/../bookstore-front/node_modules/.bin/nopt.cmd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bookstore-front/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/../bookstore-front/node_modules/.bin/semver" />
@@ -3630,8 +3283,8 @@
       <file leaf-file-name="BookEndPoint.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/rest/BookEndPoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-21">
-              <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+            <state relative-caret-position="963">
+              <caret line="108" column="5" lean-forward="false" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -3662,7 +3315,7 @@
       <file leaf-file-name="BookEndPointTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/rest/BookEndPointTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
+            <state relative-caret-position="147">
               <caret line="42" column="35" lean-forward="false" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -3674,8 +3327,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-315">
-              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="260">
+              <caret line="127" column="12" lean-forward="true" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -3694,7 +3347,7 @@
       <file leaf-file-name="BookRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/rest/repository/BookRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="-402">
               <caret line="17" column="18" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="18" />
               <folding />
             </state>
@@ -3704,8 +3357,8 @@
       <file leaf-file-name="RestClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JaxRSClient/src/main/java/RestClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+            <state relative-caret-position="67">
+              <caret line="23" column="81" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -3795,7 +3448,6 @@
         <option value="$PROJECT_DIR$/src/main/java/util/IsbnGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/swagger.yaml" />
         <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/model/Book.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../bookstore-front/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/../bookstore-front/package.json" />
         <option value="$PROJECT_DIR$/../bookstore-front/.angular-cli.json" />
@@ -3826,6 +3478,7 @@
         <option value="$PROJECT_DIR$/src/test/java/rest/BookEndPointTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/repository/BookRepositoryTest.java" />
         <option value="$PROJECT_DIR$/jaxRSClient/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -4849,7 +4502,7 @@
       <workItem from="1512219379140" duration="783000" />
       <workItem from="1512220339522" duration="4397000" />
       <workItem from="1512413902101" duration="1168000" />
-      <workItem from="1512420387590" duration="4456000" />
+      <workItem from="1512420387590" duration="5041000" />
     </task>
     <task id="LOCAL-00001" summary="add beans.xml, Handel CDI dependency injection, sanitize data and update tests">
       <created>1509997498403</created>
@@ -4879,7 +4532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510256963018</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="getting shit up tp date">
+      <created>1512425376449</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1512425376449</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -4915,7 +4575,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123912000" />
+    <option name="totallyTimeSpent" value="124497000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -4951,7 +4611,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39366516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22637363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43552035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43552035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25349087" sideWeight="0.51264757" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24221267" sideWeight="0.48735243" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -5308,52 +4968,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JaxRSClient/src/main/java/RestClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/rest/repository/BookRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="17" column="18" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/rest/BookEndPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/rest/BookEndPointTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="42" column="35" lean-forward="false" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/repository/BookRepositoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/rest/JAXRSConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -5370,10 +4984,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/BookEndPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="963">
+          <caret line="108" column="5" lean-forward="false" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/repository/BookRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/rest/BookEndPointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="42" column="35" lean-forward="false" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/repository/BookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-402">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JaxRSClient/src/main/java/RestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="23" column="81" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
-          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="260">
+          <caret line="127" column="12" lean-forward="true" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
           <folding />
         </state>
       </provider>
