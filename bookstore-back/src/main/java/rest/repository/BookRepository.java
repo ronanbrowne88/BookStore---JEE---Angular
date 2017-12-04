@@ -1,4 +1,4 @@
-package repository;
+package rest.repository;
 
 import com.pluralsight.bookstore.model.Book;
 import util.NumberGenerator;

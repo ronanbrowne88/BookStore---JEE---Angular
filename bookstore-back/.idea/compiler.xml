@@ -6,11 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="bookstore-back" />
+        <module name="bookstore-front" />
+        <module name="JaxRSClient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bookstore-back" target="1.8" />
+      <module name="bookstore-front" target="1.5" />
+      <module name="f" target="1.5" />
+      <module name="jaxRSClient" target="1.8" />
+      <module name="JaxRSClient" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

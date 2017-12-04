@@ -2,7 +2,7 @@ package rest;
 
 import com.pluralsight.bookstore.model.Book;
 import io.swagger.annotations.*;
-import repository.BookRepository;
+import rest.repository.BookRepository;
 
 import javax.inject.Inject;
 import javax.transaction.Transactional;

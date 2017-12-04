@@ -13,7 +13,7 @@ import org.jboss.shrinkwrap.api.spec.JavaArchive;
 import org.jboss.shrinkwrap.api.spec.WebArchive;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import repository.BookRepository;
+import rest.repository.BookRepository;
 import util.IsbnGenerator;
 import util.NumberGenerator;
 import util.TextUtil;

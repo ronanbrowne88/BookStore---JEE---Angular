@@ -14,6 +14,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import rest.BookEndPoint;
 import rest.JAXRSConfiguration;
+import rest.repository.BookRepository;
 import util.IsbnGenerator;
 import util.NumberGenerator;
 import util.TextUtil;

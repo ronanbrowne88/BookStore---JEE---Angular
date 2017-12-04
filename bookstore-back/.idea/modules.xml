@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JaxRSClient/JaxRSClient.iml" filepath="$PROJECT_DIR$/../JaxRSClient/JaxRSClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/bookstore-back.iml" filepath="$PROJECT_DIR$/bookstore-back.iml" />
       <module fileurl="file://$PROJECT_DIR$/../bookstore-front/bookstore-front.iml" filepath="$PROJECT_DIR$/../bookstore-front/bookstore-front.iml" />
     </modules>
